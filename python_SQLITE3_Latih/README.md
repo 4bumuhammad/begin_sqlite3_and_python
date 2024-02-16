@@ -15,7 +15,7 @@ Open terminal in sqlite3 directory
 ### beginner training ###
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     
-    ❯ sqlite3 example.db
+    ❯ ../sqlite3/sqlite3 ../sqlite3/example.db
     
         sqlite> .databases
             main: ../sqlite3/example.db r/w
@@ -71,13 +71,33 @@ Open terminal in sqlite3 directory
         4|Rick|Johnson
         5|Tim|Peterson
     
+
+# keluar
+
+    sqlite> .quit
+
+    or
+
+    sqlite> .exit
+
+
+
 ### Development with python ###
 ## - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Install package python
-❯ pip3 install db-sqlite3
+
+command terminal : 
+
+    ❯ python3 -m venv venv
+
+    ❯ source ./venv/bin/activate
+
+install package python
+
+    ❯ pip3 install db-sqlite3
 
 
 1) Create the database file
     # in terminal 
     $ sqlite3 <name-of-database>;
+
 2) Create a table or ta

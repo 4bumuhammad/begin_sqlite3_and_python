@@ -96,8 +96,17 @@ install package python
     ❯ pip3 install db-sqlite3
 
 
-1) Create the database file
-    # in terminal 
-    $ sqlite3 <name-of-database>;
+projects:
 
-2) Create a table or ta
+├── 1_create_table.py
+
+├── 2_insert_table.py
+
+├── 3_retrieve_table.py
+
+---
+
+
+
+
+

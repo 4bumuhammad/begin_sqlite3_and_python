@@ -1,5 +1,15 @@
 # SQLITE3
 
+---
+Download:
+
+<p align="center">
+    <img src="./001-scrennshoot-download-sqlite3.png" alt="sqlite.org" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">Precompiled Binaries for Mac OS X (x86) | https://sqlite.org/download.html</p>
+
+---
+
 Open terminal in sqlite3 directory
 
 ### beginner training ###

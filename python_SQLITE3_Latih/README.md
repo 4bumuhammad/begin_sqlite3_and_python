@@ -10,10 +10,10 @@ Download:
 
 ---
 
-Open terminal in sqlite3 directory
-
 ### beginner training ###
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Open terminal in sqlite3 directory
     
     ❯ ../sqlite3/sqlite3 ../sqlite3/example.db
     
@@ -83,7 +83,6 @@ Open terminal in sqlite3 directory
 
 
 ### Development with python ###
-## - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 command terminal : 
 
@@ -103,6 +102,9 @@ projects:
 ├── 2_insert_table.py
 
 ├── 3_retrieve_table.py
+
+
+
 
 ---
 

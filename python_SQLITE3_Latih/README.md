@@ -80,7 +80,7 @@ Open terminal in sqlite3 directory
 
     sqlite> .exit
 
-
+---
 
 ### Development with python ###
 

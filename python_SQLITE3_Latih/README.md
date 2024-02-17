@@ -29,7 +29,7 @@ Open terminal in sqlite3 directory
 
 
 
-# show tables
+### show tables
 
     sqlite> .tables
         COMPANY
@@ -72,7 +72,7 @@ Open terminal in sqlite3 directory
         5|Tim|Peterson
     
 
-# keluar
+### keluar
 
     sqlite> .quit
 
